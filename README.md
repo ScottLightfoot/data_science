@@ -1,5 +1,5 @@
 # Data Science portion
+(forked from group project that included a web interface)
 
-Contents will include:
-- Recommendation algorithm
-- Flask app for connecting recommendation algorithm to sql database and return recommendations
+Python | PostgreSQL | KNN | Flask
+● Using the Spotify API in conjunction with a database of user playlists
